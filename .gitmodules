@@ -1,0 +1,30 @@
+[submodule "ActionDialog"]
+	path = ActionDialog
+	url = git@github.com:Dr-Xperience/ActionDialog.git
+[submodule "Crypto"]
+	path = Crypto
+	url = git@github.com:Dr-Xperience/Crypto.git
+[submodule "GUI_Test"]
+	path = GUI_Test
+	url = git@github.com:Dr-Xperience/GUI_Test.git
+[submodule "LayoutTabBuddy"]
+	path = LayoutTabBuddy
+	url = git@github.com:Dr-Xperience/LayoutTabBuddy.git
+[submodule "LayoutTabBuddy1"]
+	path = LayoutTabBuddy1
+	url = git@github.com:Dr-Xperience/LayoutTabBuddy1.git
+[submodule "QML_Tester"]
+	path = QML_Tester
+	url = git@github.com:Dr-Xperience/QML_Tester.git
+[submodule "QtSlider"]
+	path = QtSlider
+	url = git@github.com:Dr-Xperience/QtSlider.git
+[submodule "ShiftReduceParsing"]
+	path = ShiftReduceParsing
+	url = git@github.com:Dr-Xperience/ShiftReduceParsing.git
+[submodule "TestingQFileModel"]
+	path = TestingQFileModel
+	url = git@github.com:Dr-Xperience/TestingQFileModel.git
+[submodule "testDb"]
+	path = testDb
+	url = git@github.com:Dr-Xperience/testDb.git
