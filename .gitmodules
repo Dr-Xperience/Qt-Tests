@@ -28,3 +28,6 @@
 [submodule "testDb"]
 	path = testDb
 	url = git@github.com:Dr-Xperience/testDb.git
+[submodule "SPMS_GUI_Test_1"]
+	path = SPMS_GUI_Test_1
+	url = git@github.com:Dr-Xperience/SPMS_GUI_Test_1.git
